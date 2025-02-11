@@ -45,15 +45,14 @@ Este projeto implementa o controle de LEDs RGB utilizando um joystick analógico
 3. Conectar os componentes de acordo com os pinos especificados
 4. Alimentar o Raspberry Pi Pico e interagir com o joystick e os botões
 
-## Melhorias Futuras
-- Implementar controle do LED Verde via PWM para permitir ajuste de intensidade
-- Adicionar interface de menu no display OLED para configuração do sistema
-- Implementar comunicação sem fio para controle remoto dos LEDs
+## Vídeo 
+
+https://www.canva.com/design/DAGe1igJED8/873geTX9uNIEafeRxRMWXA/watch?utm_content=DAGe1igJED8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h06f0687c82
 
 ## Autor
 Desenvolvido por Gustavo
 
 ---
 
-Caso tenha dúvidas ou precise de melhorias no projeto, sinta-se à vontade para contribuir!
+
 
